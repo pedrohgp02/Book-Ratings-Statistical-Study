@@ -44,9 +44,9 @@ To enhance the model's predictive power, a multiple regression analysis was cond
 The project found a weak positive correlation between book length and average ratings, suggesting that longer books tend to receive slightly higher ratings. However, the effect size is small, indicating that other factors may play a more significant role in determining reader ratings.
 
 ## How to Use
-1. **Clone the Repository**: `git clone https://github.com/username/project-name.git`
+1. **Clone the Repository**: `git clone https://github.com/pedrohgp02/Book-Ratings-Statistical-Study.git`
 2. **Install Dependencies**: Ensure you have Python and necessary libraries installed.
-3. **Run the Jupyter Notebook**: Open `FA ASSIGNMENT.ipynb` in Jupyter Notebook to explore the analysis.
+3. **Run the Jupyter Notebook**: Open `Statistical Analysis.ipynb` in Jupyter Notebook to explore the analysis.
 
 ## Contact
 
