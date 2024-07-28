@@ -6,11 +6,9 @@ This project investigates whether the length of a book, measured by the number o
 
 ## Project Structure
 
-1. **Introduction**: Overview of the project's objectives and research questions.
-2. **Dataset**: Description of the dataset used, including its limitations.
-3. **Methods**: Detailed explanation of the statistical methods and models applied.
-4. **Multiple Regression Analysis**: Incorporation of additional variables and evaluation of their impact on the model.
-5. **Conclusion**: Summary of findings and implications.
+- `FA ASSIGNMENT.ipynb`: The Jupyter Notebook containing the analysis.
+- `sampled-books.csv`: The dataset used for the analysis.
+- `The Influence of Book Length on Average Ratings in Goodreads.pdf`: The detailed research paper explaining the methods and findings.
 
 ## Dataset
 
