@@ -6,7 +6,7 @@ This project investigates whether the length of a book, measured by the number o
 
 ## Project Structure
 
-- `FA ASSIGNMENT.ipynb`: The Jupyter Notebook containing the analysis.
+- `Statistical Analysis.ipynb`: The Jupyter Notebook containing the analysis.
 - `sampled-books.csv`: The dataset used for the analysis.
 - `The Influence of Book Length on Average Ratings in Goodreads.pdf`: The detailed research paper explaining the methods and findings.
 
